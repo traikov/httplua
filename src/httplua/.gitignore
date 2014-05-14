@@ -1,0 +1,12 @@
+# Build Folders
+bin
+obj
+Release
+Release_x86
+
+# VSProject user options
+*.user
+*.suo
+
+# Files
+*.exe
